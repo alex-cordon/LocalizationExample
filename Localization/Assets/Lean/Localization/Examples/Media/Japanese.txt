@@ -1,0 +1,5 @@
+﻿Title = こんにちは\n日本語 // Description
+Subtitle = サンプルテキスト // Secondary text
+
+Format1 = 私の名前は{NAME}です!
+Format2 = 私は{AGE}歳です！

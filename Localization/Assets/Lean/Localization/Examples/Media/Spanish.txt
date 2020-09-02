@@ -1,0 +1,5 @@
+﻿Title = ¡Hola!\nespañol // Description
+Subtitle = Texto de ejemplo // Texto secundario
+
+Format1 = Mi nombre es {NAME} !
+Format2 = Tengo {AGE} años!
